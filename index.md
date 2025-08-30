@@ -7,3 +7,10 @@ I added a H1 header to the file
 
 
 I also added an image
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+I also added a code
